@@ -1,0 +1,1 @@
+{"root":["./src/queue.ts","./src/server.ts","./src/config/db.ts","./src/jobs/email.queue.ts","./src/jobs/report.queue.ts","./src/models/report.model.ts","./src/models/user.model.ts","./src/routes/user.ts","./src/workers/email.worker.ts","./src/workers/report.worker.ts"],"version":"5.8.3"}
